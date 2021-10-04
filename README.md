@@ -21,14 +21,12 @@
 </div>
   
   ##
-  
-  <br>
 
 # Contatos <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 
 
-| [<a href="https://www.linkedin.com/in/alessandramurat/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> |
+| <a href="https://www.linkedin.com/in/alessandramurat/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> |
 |:---:|
 
 
