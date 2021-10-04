@@ -18,7 +18,7 @@
   <img align="center" alt="Murat-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Murat-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" >
   <img align="center" alt="Murat-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" >
-     <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="  https://tenor.com/view/mario-pipe-byebye-gif-5530137">
+     <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://www.pngegg.com/pt/png-zkuqc">
 
 </div>
   
