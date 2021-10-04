@@ -18,7 +18,7 @@
   <img align="center" alt="Murat-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Murat-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" >
   <img align="center" alt="Murat-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" >
-   <img align="right" alt="" height="150" style="border-radius:50px;" src="https://c.tenor.com/OHTxhd3j3LUAAAAi/mario-ok.gif">
+   <img align="right" alt="" height="150" style="border-radius:50px;" src="https://c.tenor.com/0JqgDg_WXrIAAAAi/dan%C3%A7a-mario.gif">
 
 </div>
   
