@@ -1,4 +1,4 @@
-<h2 align="center"> It's-a Me, Alessandra Murat <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif width="50"></h2>
+# align="center"> It's-a Me, Alessandra Murat <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif width="50">
 
 <br>
 <div align="center">
