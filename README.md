@@ -40,3 +40,8 @@
  
 </div>
   
+  
+ ### :shipit: Total visits on profile:
+
+<img alingn="center" src="https://profile-counter.glitch.me/AlessandraMurat/count.svg" />
+  
